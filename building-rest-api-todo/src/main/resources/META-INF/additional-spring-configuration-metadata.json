@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "api-docs",
+    "type": "java.lang.String",
+    "description": "A description for 'api-docs'"
+  },
+  {
+    "name": "springdoc",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc'"
+  },
+  {
+    "name": "path",
+    "type": "java.lang.String",
+    "description": "A description for 'path'"
+  },
+  {
+    "name": "enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'enabled'"
+  },
+  {
+    "name": "swagger-ui",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger-ui'"
+  },
+  {
+    "name": "spring.jpa.hibernate.ddb-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.ddb-auto'"
+  },
+  {
+    "name": "springfox.documentation.swagger-ui.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'springfox.documentation.swagger-ui.enabled'"
+  }
+]}
